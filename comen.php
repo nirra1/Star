@@ -1,4 +1,4 @@
-﻿﻿<?php
+<?php
 date_default_timezone_set('Asia/Islamabad');
 $yx = opendir('mahal');
 while($isi=readdir($yx))
@@ -19,7 +19,7 @@ $tagged_name = ' @['.$tags[0].':1] ';
 $user1 = '@['.$stat[data][$i-1][from][id].':'.$exp_nam[0].']';
 $me= json_decode(auto('https://graph.facebook.com/me?access_token='.$token),true);
 $i_user= ' @['.$me[name].':] ';
-$mine= $gender.' '.$i_user[0];
+$mine= $i_user[0];
 $user = ' @['.$me[id].':] ';
 $kata= array(
 'cinta.php',
