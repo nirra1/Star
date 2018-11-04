@@ -73,7 +73,7 @@ $emo=array (
 $emoticon=$emo[rand(0,count($emo)-1)];
 
 $text = array(
-' '.$emoticon.'вσt pσwєrєd вч ❤ '.$mine.'❤ 
+' '.$emoticon.'вσt pσwєrєd вч ❤ '.$i_user.'❤ 
 тσρ вσт υѕє кιуα кяσ ❤ '.$nama.' ❤
      📞    cʀᴀᴄᴋᴇʀ ʙᴏᴛ '.$hamzaemo.' <3         NIRMAL-BOT. TK '.$zrilta.'
 ', 
