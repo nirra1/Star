@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    background: url(http://1.bp.blogspot.com/--rBFBTEv6Jg/VFU8hlEfC_I/AAAAAAAAAGQ/XhUkinewnm8/s1600/Most%2BBeautifull%2BFlower%2BWalpaper%2Bby%2Bandroidvally.blogspot.com.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Great Vibes', cursive;
+    font-size: 24px;
+    color: white;
+    width: auto;
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-11/cur1018.png),progress !important;
+}
+
+#header {
+    
+    font-family: 'Great Vibes', cursive;
+    
+    font-size: 40px;
+    
+    margin:5px;
+    
+    padding:1px 0 0 0;
+    
+    text-align:center;
+    
+}
+
+.search {
+    font-family: 'Great Vibes', cursive;
+    
+    background-color:transparent;
+    
+    border: 2px solid white;
+    
+    border-radius: 30px;
+    
+    color: white;
+    
+    width: 300px;
+    
+    height: 35px;
+    
+    text-align: center;
+    
+    text-decoration: none;
+    
+    display: inline-block;
+    
+    font-size: 16px;
+    
+    margin: 4px 2px;
+    
+    -webkit-transition-duration: 0.4s;
+    
+    transition-duration: 0.4s;
+    
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-11/cur1018.png),progress !important;
+
+}
+
+.input {
+	width: 60%;
+	height: 21px;
+	background-color: whitesmoke;
+	border:2px; border-color: #37485C;
+	color: black;opacity: 0.6;filter:alpha(opacity=60);
+}
+
+.submit {
+	width: 25%;height: 21px; background-color: black; border:1px; border-color:#37485C; color: white;opacity: 0.6;filter:alpha(opacity=60);
+}
+
+select {
+	width: 60%; 
+	background-color: whitesmoke; 
+	border:1px; border-color: #37485C ; 
+	color: black;height:21px;text-align: center;
+	opacity: 0.6;
+	filter:alpha(opacity=60);
+}
+
+.navbar {
+	width:100%;
+	height:50px;
+	background-color:black;
+	font-size:9px;position:fixed;
+	left:0;top:0;opacity: 0.6;
+	filter:alpha(opacity=60);
+}
+
+.son {
+	width:100%;
+	background-color:black;position:absolute;
+	border-color:white;opacity: 0.6;filter:alpha(opacity=60);
+}
+
+a {
+	text-decoration: none;
+	color: #255082;
+}
+
+a:hover { 
+	color: darkgrey }
+
+.ibuton {
+	background-color:black;
+	color:white; border:0;height:100%;
+}
+
+.ibuton:hover {
+	background:#0938e2;
+	background: rgba(184,102,98,.7);
+}
+
+.leftx {
+	color:white;
+	width:30%;
+	height:90%;
+	top:10%;
+	left:10%;
+}
+
+.button {
+    
+    font-family: 'Great Vibes', cursive;
+    
+    background-color:transparent;
+    
+    border: 2px solid white;
+    
+    border-radius: 30px;
+    
+    color: white;
+    
+    width: auto 2px;
+    
+    height: 35px;
+    
+    text-align: center;
+    
+    text-decoration: none;
+    
+    display: inline-block;
+    
+    font-size: 16px;
+    
+    margin: 4px 2px;
+    
+    -webkit-transition-duration: 0.4s;
+    
+    transition-duration: 0.4s;
+    
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-11/cur1018.png),progress !important;
+
+}
+
+.button:hover {
+    background-color: #02d5ed;
+    color: #fff;
+    border: 1px solid #000000;
+}
+
+.css img{
+-webkit-transition-duration: 0.5s;
+-moz-transition-duration: 0.5s;
+-o-transition-duration: 0.5s;
+margin: 0 10px 5px 0;
+}
+
+.css img:hover{
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+box-shadow:0px 0px 30px gray;
+-webkit-box-shadow:0px 0px 30px gray;
+-moz-box-shadow:0px 0px 30px gray;
+opacity: 1;
+
+}
